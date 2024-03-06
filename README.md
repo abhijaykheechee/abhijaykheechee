@@ -6,6 +6,6 @@
 
 - ⚙️ Languages I frequently use: `.js`, `.html`, `.css`, `.ts`, `.py`, `.java`, `.cpp`, `.c`
 
-- 🎞️ My hobbies include VFX(After Effects, Blender, and Element3D), Guitar, Esports(RIT Rocket League)
+- 🎞️ My hobbies include VFX(After Effects, Blender, and Element3D), playing the guitar, and Esports(RIT Rocket League)
 
 - 🌐 Connect with me on my [LinkedIn](https://www.linkedin.com/in/abhijaykheechee/) !
