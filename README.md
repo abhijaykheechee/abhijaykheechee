@@ -4,7 +4,7 @@
 
 - 💼 Currently searching for a co-op for Fall 2024
 
-- ⚙️ Languages I frequently use: `.js`, `.html`, `.css`, `.ts`, `.py`, `.java`, `.cpp`, `.c`
+- ⚙️ Languages I frequently use: `.cpp`, `.py`, `.java`, `.c`, `.js`, `.html`, `.css`, `.ts`
 
 - 🎞️ My hobbies include VFX(After Effects, Blender, and Element3D), playing the guitar, and Esports(RIT Rocket League)
 
