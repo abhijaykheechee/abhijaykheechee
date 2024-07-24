@@ -2,7 +2,7 @@
 
 #### 🎓 Studying Software Engineering at Rochester Institute of Technology, graduating December 2026
 
-- 💼 Currently searching for a co-op for Spring 2025
+- 💼 Currently searching for a co-op for all 3 Co-op blocks in 2025 (Spring, Summer. and Fall)
 
 - ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.html`, `.css`, `.ts`
 
