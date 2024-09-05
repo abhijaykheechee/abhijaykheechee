@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### 🎓 Studying Software Engineering at Rochester Institute of Technology, graduating December 2026
+#### 🎓 Studying Software Engineering at Rochester Institute of Technology
 
 - ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.html`, `.css`, `.ts`
 
