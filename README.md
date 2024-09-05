@@ -2,8 +2,6 @@
 
 #### 🎓 Studying Software Engineering at Rochester Institute of Technology, graduating December 2026
 
-- 💼 Currently searching for a Spring 2025 Co-op
-
 - ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.html`, `.css`, `.ts`
 
 - 🎞️ My hobbies include VFX(After Effects, Blender, and Element3D), playing the guitar, and Esports(RIT Rocket League)
