@@ -2,9 +2,11 @@
 
 #### 🎓 Studying Software Engineering at Rochester Institute of Technology
 
-- ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.html`, `.css`, `.ts`
+- ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.jsx`, `.html`, `.css`, `.ts`, `.tsx`
 
-- 🎞️ My hobbies include VFX(After Effects, Blender, and Element3D), playing the guitar, and Esports(RIT Rocket League)
+- 🎞️ My hobbies include VFX(After Effects, Illustrator, Blender, Daz3D, FaceGen, EmberGen), playing the guitar, and Esports(RIT Rocket League)
+
+- 📺 Check out my recent VFX projects on my [YouTube](https://www.youtube.com/@ask_vfx) channel !
 
 - 🌐 Connect with me on my [LinkedIn](https://www.linkedin.com/in/abhijaykheechee/) !
 
