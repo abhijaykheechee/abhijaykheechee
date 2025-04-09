@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi 👋
 
 #### 🎓 Studying Software Engineering at Rochester Institute of Technology
 
