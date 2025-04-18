@@ -4,9 +4,7 @@
 
 - ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.jsx`, `.html`, `.css`, `.ts`, `.tsx`
 
-- 🎞️ My hobbies include VFX(After Effects, Illustrator, Blender, Daz3D, FaceGen, EmberGen) and playing the guitar
-
-- 📺 Check out my recent VFX projects on my [YouTube](https://www.youtube.com/@ask_vfx) channel
+- 🎞️ My hobbies include 3D Animation/VFX and playing the guitar
 
 - 🌐 Connect with me on my [LinkedIn](https://www.linkedin.com/in/abhijaykheechee/) !
 
