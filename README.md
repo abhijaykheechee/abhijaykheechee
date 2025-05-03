@@ -2,7 +2,7 @@
 
 #### 🎓 Studying Software Engineering at Rochester Institute of Technology
 
-- ⚙️ Languages I frequently use: `.py`, `.java`, `.cpp`, `.c`, `.js`, `.jsx`, `.html`, `.css`, `.ts`, `.tsx`
+- ⚙️ Languages I frequently use: `.py`, `.js`, `.jsx`, `.ts`, `.tsx`, `.java`, `.cpp`, `.c`, `.html`, `.css`
 
 - 🎞️ My hobbies include 3D Animation/VFX and playing the guitar
 
