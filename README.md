@@ -4,8 +4,6 @@
 
 - ⚙️ Languages I frequently use: `.py`, `.js`, `.jsx`, `.ts`, `.tsx`, `.java`, `.cpp`, `.c`, `.html`, `.css`
 
-- 🎞️ My hobbies include VFX/CGI and playing the guitar
-
 - 🌐 Connect with me on my [LinkedIn](https://www.linkedin.com/in/abhijaykheechee/) !
 
 #
